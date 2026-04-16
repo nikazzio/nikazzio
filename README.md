@@ -20,7 +20,7 @@ I am an AI Solutions Architect and Full-Stack Software Engineer with over 15 yea
 
 **2. [Scriptoria](https://github.com/nikazzio/scriptoria)** Modular tool for Digital Humanities: IIIF downloader + Studio environment.
 * **Core Focus:** Facilitating the download, management, and study of IIIF (International Image Interoperability Framework) manuscripts and digital archives.
-* **Tech Stack:** Python *(puoi aggiungere qui altre librerie o framework specifici che hai usato nel progetto)*.
+* **Tech Stack:** Python 
 
 ---
 
