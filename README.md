@@ -50,7 +50,7 @@ AWS • Docker • Git • SQL (PostgreSQL, MySQL, Oracle) • NoSQL
 
 <div align="center">
   <a href="https://github.com/nikazzio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikazzio&show_icons=true&theme=radical&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikazzio&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/nikazzio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikazzio&layout=compact&theme=radical"/>
