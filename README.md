@@ -7,7 +7,6 @@ I am an AI Solutions Architect and Full-Stack Software Engineer with over 15 yea
 * 🔭 Actively working on **[Brevia](https://github.com/brevia-ai/brevia)**, a comprehensive framework for AI applications.
 * 🧠 Specialized in **Retrieval-Augmented Generation (RAG)**, Information Extraction, and enterprise hyperautomation.
 * ⚙️ Strong background in building robust backend architectures, RESTful APIs, and microservices.
-* 📫 Reach me at: **[niki.corradetti@gmail.com](mailto:niki.corradetti@gmail.com)**
 
 ---
 
