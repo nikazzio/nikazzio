@@ -1,43 +1,23 @@
 # Hello There! I'm Niki 👋
 
-### 👨‍💻 About Me
+I am an AI Solutions Architect and Full-Stack Software Engineer with over 15 years of experience, specialized in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and robust backend architectures.
 
-I am an AI Solutions Architect and Full-Stack Software Engineer with over 15 years of experience in designing distributed systems and scalable enterprise software. My current and primary focus is on Artificial Intelligence, specifically building and deploying advanced architectures using Large Language Models (LLMs).
-
-* 🔭 Actively working on **[Brevia](https://github.com/brevia-ai/brevia)**, a comprehensive framework for AI applications.
-* 🧠 Specialized in **Retrieval-Augmented Generation (RAG)**, Information Extraction, and enterprise hyperautomation.
-* ⚙️ Strong background in building robust backend architectures, RESTful APIs, and microservices.
-
----
-
-### 🚀 Featured Projects
-
-**1. [Brevia AI](https://github.com/brevia-ai/brevia)** An extensible API framework designed to build cutting-edge Generative AI applications. 
-* **Core Focus:** Advanced Retrieval-Augmented Generation (RAG) and structured Information Extraction using top-tier LLMs.
-* **Tech Stack:** Python, LangChain, FastAPI, Vector Databases.
-* **Impact:** Powering enterprise-level hyperautomation and intelligent customer assistance systems for various institutional and corporate clients (e.g., ENPACL, MASAF).
-
-**2. [Scriptoria](https://github.com/nikazzio/scriptoria)** Modular tool for Digital Humanities: IIIF downloader + Studio environment.
-* **Core Focus:** Facilitating the download, management, and study of IIIF (International Image Interoperability Framework) manuscripts and digital archives.
-* **Tech Stack:** Python 
+* 🔭 **I’m currently working on:** **[Brevia AI](https://github.com/brevia-ai/brevia)** (extensible API framework for Generative AI) and **[Scriptoria](https://github.com/nikazzio/scriptoria)** (Modular tool for Digital Humanities).
+* 🦊 **GitLab:** You can also find my overview activity on **[gitlab.com/nikazzio](https://gitlab.com/nikazzio)**.
+* 📫 **Contact:** **[niki.corradetti@gmail.com](mailto:niki.corradetti@gmail.com)**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**AI & Machine Learning:**
-LangChain • TensorFlow • PyTorch • Hugging Face • LangSmith
-
-**Languages & Frameworks:**
-Python • Java (J2EE) • TypeScript/JavaScript • PHP • FastAPI • Node.js
-
-**Infrastructure & Databases:**
-AWS • Docker • Git • SQL (PostgreSQL, MySQL, Oracle) • NoSQL
+**AI & ML:** LangChain • TensorFlow • PyTorch • Hugging Face • LangSmith  
+**Languages:** Python • Java (J2EE) • TypeScript/JavaScript • PHP • FastAPI • Node.js  
+**Infrastructure:** AWS • Docker • Git • SQL • NoSQL
 
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,ts,nodejs,aws,docker,postgres,mysql,git,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,ts,nodejs,aws,docker,postgres,mysql,git,linux,gitlab&perline=7" />
   </a>
 </div>
 
