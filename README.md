@@ -29,9 +29,9 @@ I am an AI Solutions Architect and Full-Stack Software Engineer with over 15 yea
 
 <div align="center">
   <a href="https://github.com/nikazzio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikazzio&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikazzio&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/nikazzio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikazzio&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikazzio&layout=compact&theme=radical"/>
   </a>
 </div>
